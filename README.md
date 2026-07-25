@@ -13,4 +13,7 @@ Below you can explore my repositories containing personal projects and hands-on 
 
 https://github.com/ItaiDvir/Penetration-Testing-Project
 
+https://github.com/ItaiDvir/SOC-Project
+
+
 
