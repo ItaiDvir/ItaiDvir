@@ -7,3 +7,10 @@
 - **Network & Forensics:** Wireshark, Packet Analysis, Windows Forensics
 - **Offensive Security Tools:** Nmap, Burp Suite, Metasploit, CrackMapExec
 - **Environments & Scripting:** Kali Linux, Windows Virtual Machines, PowerShell, SQL
+
+### 📂 My Portfolio & Projects
+Below you can explore my repositories containing personal projects and hands-on research:
+
+https://github.com/ItaiDvir/Penetration-Testing-Project
+
+
